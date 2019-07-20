@@ -73,7 +73,7 @@ class ViewController: UIViewController {
             intcounter -= 4
             actionView.backgroundColor=UIColor.blue
         }
-        print(speed)
+        
     }
     
     func move(_ targetView:UIView){
